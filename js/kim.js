@@ -280,6 +280,7 @@ function gerarPDF() {
     <ul>
         <li style="display: flex; justify-content: right; font-weight: bold; padding: 5px;">Total: ${itens[1]}</li>
         <li style="display: flex; justify-content: right; font-weight: bold; padding: 5px;">Local da Compra: ${itens[2]}</li>
+        <p style="display: flex; justify-content: center; font-weight: bold; padding: 5px;">Desenvolvido por: <b> Aderaldo Anderson S.V Amorim</b></p>
     </ul>
 </body>
 
